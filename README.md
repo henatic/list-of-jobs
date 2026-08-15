@@ -15,3 +15,6 @@
 
 ## Quora
 - [Software Engineer, Machine Learning Platform, New Grad - Quora (Remote)](https://jobs.ashbyhq.com/quora/452afc2e-0c79-41f8-8201-1aab7df775db/application)
+
+## University of Washington Master of Science in Technology Innovation
+- [Student Operations and Technology Assistant](https://uw.joinhandshake.com/jobs/11296773)
