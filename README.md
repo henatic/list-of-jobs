@@ -18,3 +18,6 @@
 
 ## University of Washington Master of Science in Technology Innovation
 - [Student Operations and Technology Assistant](https://uw.joinhandshake.com/jobs/11296773)
+
+## GitHub
+- [Software Engineer I, Secret Scanning](https://githubinc.jibeapply.com/jobs/5743)
