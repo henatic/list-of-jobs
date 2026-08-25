@@ -21,3 +21,6 @@
 
 ## GitHub
 - [Software Engineer I, Secret Scanning](https://githubinc.jibeapply.com/jobs/5743)
+
+## Uber
+[Software Engineer I](https://jobs.uber.com/en/jobs/301001/)
