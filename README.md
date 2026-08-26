@@ -41,3 +41,6 @@ https://www.linkedin.com/jobs/view/4455960842/?trk=li_appcast_Global_careers_job
 
 ## Expedia
 - [Software Development Engineer I](https://careers.expediagroup.com/job/software-development-engineer-i/seattle-wa/R-108739/)
+
+## Amazon
+- [Software Development Engineer](https://www.amazon.jobs/en/jobs/10500287/software-development-engineer)
