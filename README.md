@@ -8,6 +8,7 @@
 - [Software Development Engineer](https://job-boards.greenhouse.io/pokemoncareers/jobs/7827092003)
 
 ## Google
+- [Software Engineer, Terraform](https://www.google.com/about/careers/applications/jobs/results/111130436834337478-software-engineer-terraform?q=Software+Engineer%2C+Terraform+-+Seattle&hl=en-US)
 - [Software Engineer, Early Career, Campus - United States](https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus?q=Software+Engineer%2C+Early+Career%2C+Campus&hl=en-US)
 
 ## Micrsosoft
