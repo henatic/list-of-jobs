@@ -44,3 +44,4 @@ https://www.linkedin.com/jobs/view/4455960842/?trk=li_appcast_Global_careers_job
 
 ## Amazon
 - [Software Development Engineer](https://www.amazon.jobs/en/jobs/10500287/software-development-engineer)
+- [Software Development Engineer, Amazon Leo, Early Career - 2026](https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026)
